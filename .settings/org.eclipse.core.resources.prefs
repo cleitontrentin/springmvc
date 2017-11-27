@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/lib/cabecalho.jsp=UTF-8
+encoding//WebContent/WEB-INF/lib/carrinho/itens.jsp=UTF-8
+encoding//WebContent/WEB-INF/lib/produtos/form.jsp=UTF-8
+encoding//WebContent/WEB-INF/lib/rodape.jsp=UTF-8
+encoding//WebContent/WEB-INF/messages.properties=UTF-8
+encoding//WebContent/WEB-INF/messages_en_US.properties=UTF-8
+encoding//WebContent/WEB-INF/messages_pt.properties=UTF-8
+encoding//WebContent/WEB-INF/tags/pageTamplate.tag=UTF-8
+encoding//src/br/com/springmvc/validation/ProdutoValidation.java=UTF-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8
